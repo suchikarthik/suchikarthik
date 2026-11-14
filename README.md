@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Data Analyst fresher passionate about turning data into meaningful insights and solving business problems.<br><br>I have hands-on experience with Excel, SQL, Python, Power BI, Power Query, Statistics, Data Visualization, and Tableau. I enjoy analyzing data, creating dashboards, and finding patterns that support better decisions.<br><br>Currently, I’m focusing on improving my Advanced Python skills and strengthening my analytical abilities.<br><br>I’m open to Data Analyst and Junior Data Analyst opportunities, especially remote roles, where I can learn, contribute, and grow as a data professional.<br><br>
+Hi I'm suchi I’m a Data Analyst fresher passionate about turning data into meaningful insights and solving business problems.<br><br>I have hands-on experience with Excel, SQL, Python, Power BI, Power Query, Statistics, Data Visualization, and Tableau. I enjoy analyzing data, creating dashboards, and finding patterns that support better decisions.<br><br>Currently, I’m focusing on improving my Advanced Python skills and strengthening my analytical abilities.<br><br>I’m open to Data Analyst and Junior Data Analyst opportunities, especially remote roles, where I can learn, contribute, and grow as a data professional.<br><br>
 
 
 ## 🌐 Socials:
